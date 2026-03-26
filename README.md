@@ -23,8 +23,8 @@ The goal of this project is to perform **non-commercial, academic-style research
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/pingpong-research.git
-   cd pingpong-research
+   git clone https://github.com/Tnina2612/Reddit-Trends-Analyzing.git
+   cd Reddit-Trends-Analyzing
    ```
 
 2. **Install dependencies:**
