@@ -46,4 +46,3 @@ This project is built with privacy and platform integrity as a priority:
 * **No Re-identification:** No attempt is made to de-anonymize or track individual Reddit users.
 * **Data Retention:** Locally stored data is periodically refreshed; any posts deleted on Reddit are removed from local sets to respect user "right to be forgotten."
 * **Rate Limiting:** Implements automatic back-off to stay well within the 60-100 QPM free tier limit.
-* 
